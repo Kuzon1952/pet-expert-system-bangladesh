@@ -107,14 +107,9 @@ Goodbye!
 ├── run.sh                             # Shell script to run in one command
 │
 ├── report/
-│   ├── engmain.tex                    # English report (LaTeX source)
 │   ├── engmain.pdf                    # English report (compiled PDF)
-│   ├── к_р_Ови_5130201-40001.tex      # Russian report (LaTeX source)
 │   ├── к_р_Ови_5130201-40001.pdf      # Russian report (compiled PDF)
 │   ├── diagram.pdf                    # Decision tree diagram (PDF)
-│   ├── clips1.png                     # Screenshot 1
-│   ├── clips2.png                     # Screenshot 2
-│   └── clips3.png                     # Screenshot 3
 │
 └── README.md
 ```
