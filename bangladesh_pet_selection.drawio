@@ -1,0 +1,199 @@
+<mxfile host="app.diagrams.net" agent="Codex">
+  <diagram id="bd-pet-selection-v2" name="Выбор животного — Бангладеш">
+    <mxGraphModel dx="1144" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" value="Выбор домашнего животного на основе заданных характеристик (Choosing a Pet Based on Given Characteristics)&lt;br&gt;&lt;font style=&quot;font-size:12px;font-weight:normal;&quot;&gt;Область: распространённые безопасные домашние животные, доступные в Бангладеш (&lt;strong data-start=&quot;53&quot; data-end=&quot;64&quot;&gt;Domain:&lt;/strong&gt; Common safe pets available in Bangladesh)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="2000" x="300" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="legend" parent="1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;" value="─── да&lt;br&gt;- - - нет" vertex="1">
+          <mxGeometry height="45" width="90" x="1254" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="n1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" value="Вам важно ежедневное близкое общение с питомцем?&lt;div&gt;Is daily close interaction with your pet important to you?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="1159" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" value="Готовы уделять 1+ час в день на прогулки и дрессировку?&lt;br&gt;Are you ready to spend 1+ hour per day on walks and training?" vertex="1">
+          <mxGeometry height="80" width="270" x="514" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" value="Предпочитаете питомца для пассивного наблюдения?&lt;br&gt;Do you prefer a pet for passive observation?" vertex="1">
+          <mxGeometry height="80" width="270" x="1814" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Предпочитаете питомца, которому нужно пространство для активного движения вне клетки?&lt;div&gt;Do you prefer a pet that needs space for active movement outside a cage?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="214" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Нужно компактное животное для жизни в квартире?&lt;br&gt;Do you need a compact pet suitable for apartment living?" vertex="1">
+          <mxGeometry height="80" width="240" x="844" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Готовы ухаживать за аквариумом и регулярно менять воду?&lt;br&gt;Are you ready to maintain an aquarium and regularly change the water?" vertex="1">
+          <mxGeometry height="80" width="240" x="1514" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="Нужен питомец для общения и игр (без активного выгула)?&lt;div&gt;Do you want a pet for interaction and play (without active walking)?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="2144" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontSize=11;fontColor=#ffffff;" value="Нужен питомец с хорошей обучаемостью и послушанием?&lt;div&gt;&lt;strong data-start=&quot;308&quot; data-end=&quot;367&quot; style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Do you need a pet with good trainability and obedience?&lt;/font&gt;&lt;/strong&gt;&lt;div&gt;&lt;br&gt;&lt;p data-start=&quot;369&quot; data-end=&quot;389&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="57" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;fontColor=#ffffff;" value="Предпочитаете питомца с независимым характером?&lt;div&gt;&lt;p data-start=&quot;416&quot; data-end=&quot;526&quot;&gt;&lt;strong data-start=&quot;470&quot; data-end=&quot;526&quot;&gt;Do you prefer a pet with an independent personality?&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="372" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;fontColor=#ffffff;" value="Нормально относитесь к ночной активности питомца?&lt;div&gt;Are you comfortable with a pet being active at night?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="687" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;fontColor=#ffffff;" value="Нужен очень тихий и спокойный питомец?&lt;br&gt;Do you need a very quiet and calm pet?" vertex="1">
+          <mxGeometry height="80" width="240" x="1002" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;fontColor=#ffffff;" value="Хотите групповой аквариум с несколькими рыбками?&lt;br&gt;Do you want a community aquarium with several fish?" vertex="1">
+          <mxGeometry height="80" width="240" x="1357" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;fontColor=#ffffff;" value="Устроит медленный, малошумный экзотический питомец?&lt;br&gt;Would you like a slow-moving, quiet exotic pet?" vertex="1">
+          <mxGeometry height="80" width="240" x="1672" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;fontColor=#ffffff;" value="Хотите птицу, умеющую говорить или подражать?&lt;br&gt;Do you want a bird that can talk or imitate sounds?" vertex="1">
+          <mxGeometry height="80" width="240" x="1987" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontSize=11;fontColor=#ffffff;" value="Нравится яркий или экзотический внешний вид питомца?&lt;br&gt;Do you like a bright or exotic-looking pet?" vertex="1">
+          <mxGeometry height="80" width="240" x="2302" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="l1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Собака&lt;div&gt;Dog&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="40" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Кролик&lt;div&gt;Rabbit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="185" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Кошка&lt;br&gt;Cat" vertex="1">
+          <mxGeometry height="60" width="130" x="355" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Морская свинка&lt;br&gt;Guinea Pig" vertex="1">
+          <mxGeometry height="60" width="150" x="500" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Хомяк&lt;br&gt;Hamster" vertex="1">
+          <mxGeometry height="60" width="130" x="670" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize-12;fontStyle=1" value="Декоративная крыса&lt;br&gt;Fancy Rat" vertex="1">
+          <mxGeometry height="60" width="155" x="815" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Голубь&lt;div&gt;Pigeon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="985" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Майна&lt;br&gt;Myna Bird" vertex="1">
+          <mxGeometry height="60" width="130" x="1130" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Аквариумные рыбки&lt;br&gt;Aquarium Fish" vertex="1">
+          <mxGeometry height="60" width="155" x="1320" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Золотая рыбка&lt;br&gt;Goldfish" vertex="1">
+          <mxGeometry height="60" width="140" x="1490" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Черепаха&lt;div&gt;Turtle&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="1645" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Корелла&lt;br&gt;Cockatiel" vertex="1">
+          <mxGeometry height="60" width="130" x="1790" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Попугай&lt;br&gt;Parrot" vertex="1">
+          <mxGeometry height="60" width="130" x="1960" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Канарейка&lt;br&gt;Canary" vertex="1">
+          <mxGeometry height="60" width="130" x="2105" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Неразлучник&lt;br&gt;Lovebird" vertex="1">
+          <mxGeometry height="60" width="140" x="2275" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="l16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" value="Волнистый попугайчик&lt;br&gt;Budgerigar (Budgie)" vertex="1">
+          <mxGeometry height="60" width="160" x="2430" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="n1" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="n2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="n1" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="n3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="n2" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="n4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="n2" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="n5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="n3" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="n6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="n3" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="n7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="n4" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="n8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="n4" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="n9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="n5" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="n10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="n5" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="n11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="n6" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="n12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="n6" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="n13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="1" source="n7" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="n14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="n7" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="n15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="n8" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="n8" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="n9" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="n9" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="n10" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e20" edge="1" parent="1" source="n10" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e21" edge="1" parent="1" source="n11" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e22" edge="1" parent="1" source="n11" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23" edge="1" parent="1" source="n12" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e24" edge="1" parent="1" source="n12" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e25" edge="1" parent="1" source="n13" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e26" edge="1" parent="1" source="n13" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e27" edge="1" parent="1" source="n14" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e28" edge="1" parent="1" source="n14" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e29" edge="1" parent="1" source="n15" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=0;" target="l15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e30" edge="1" parent="1" source="n15" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;dashed=1;dashPattern=8 8;" target="l16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
