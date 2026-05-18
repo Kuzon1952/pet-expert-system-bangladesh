@@ -110,7 +110,9 @@ Goodbye!
 │   ├── engmain.pdf                    # English report (compiled PDF)
 │   ├── к_р_Ови_5130201-40001.pdf      # Russian report (compiled PDF)
 │   ├── diagram.pdf                    # Decision tree diagram (PDF)
-│
+│   ├── clips1.png                     # Screenshot 1
+│   ├── clips2.png                     # Screenshot 2
+│   └── clips3.png                     # Screenshot 3
 └── README.md
 ```
 
